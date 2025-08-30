@@ -20,7 +20,7 @@ The model is built using **XGBoost Classifier**, trained on the **PIMA Indians D
 ---
 
 ## 🔗 Live Demo  
-👉 [Click here to try the app](https://your-deployment-link.com)  
+👉 [Click here to try the app](https://huggingface.co/spaces/GokulV/diabetes-prediction)  
 
 ---
 
@@ -72,13 +72,10 @@ The app will start at **http://127.0.0.1:7860/**
 ### 🔹 Gradio Web App UI  
 ![WebApp Screenshot](images/gradio-ui.png)  
 
-### 🔹 Prediction Output Example  
-![Prediction Output](images/output.png)  
-
 ---
 
 ## 📊 Model Performance  
-- **Accuracy:** ~73%  
+- **Accuracy:** ~74%  
 - **Precision:** ~64%  
 - **Recall:** ~50%  
 - **ROC-AUC:** ~0.81  
